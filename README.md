@@ -3,6 +3,7 @@
 ## Overview
 ```
 This is the primary code repository for reproducing Pathologic Risk Classifier for high grade serous ovarian carcinoma(HGSOC) (PathoRiCH), a histopathologic image–based treatment response analyzer.
+Our codes were developed based on DS-MIL(https://github.com/binli123/dsmil-wsi)
 ```
 
 ## Installation
